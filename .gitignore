@@ -1,0 +1,5 @@
+# Node.js
+node_modules/
+
+# 从其他项目复制出的文件
+copyFiles/copy-files/
