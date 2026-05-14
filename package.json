@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "copy": "node copyFiles/copy-script.js"
+    "copy": "node copyFiles/copy-script.js",
+    "batch": "node batchFiles/batch-script.js"
   },
   "dependencies": {
     "xlsx": "^0.18.5"

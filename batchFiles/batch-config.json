@@ -1,0 +1,6 @@
+{
+  "targetDir": "E:/dragon-and-dungeon/packages/dnd-app/src",
+  "fileTypes": [".js", ".ts", ".vue", ".css"],
+  "ignoreDirs": ["node_modules", ".git", "dist", ".output"],
+  "operations": ["append-newline"]
+}
